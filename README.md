@@ -7,4 +7,4 @@
 - 📫 Cómo contactarme: https://www.linkedin.com/in/jorge-david-gutierrez-lopez/
 
 
-![react-redux](https://user-images.githubusercontent.com/83549945/128262852-a95142fb-14d6-4f89-89e9-1bfee7fc4a0f.jpeg)  
+![react](https://user-images.githubusercontent.com/83549945/128263533-3e692cd8-f7b7-4dcc-a1c8-022c9cc6c2f6.png)
