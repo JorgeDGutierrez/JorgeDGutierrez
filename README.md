@@ -23,5 +23,5 @@
 </a>
 <a href="https://github.com/JorgeDGutierrez/firebase-login">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDGutierrez&repo=firebase-login
-
+</a>
 
