@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDGutierrez&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/JorgeDGutierrez/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDGutierrez&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDGutierrez&repo=PI-Videogames-FT14b" />
 </a>
 
 
