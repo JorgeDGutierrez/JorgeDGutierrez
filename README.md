@@ -1,4 +1,4 @@
-![react-redux](https://github.com/JorgeDGutierrez/JorgeDGutierrez/issues/5)
+![desarrollo]https://github.com/JorgeDGutierrez/JorgeDGutierrez/issues/5#issue-977765791
 
 ### Hola, soy Jorge 👋
 
