@@ -1,4 +1,4 @@
-![desarrollo](https://github.com/JorgeDGutierrez/JorgeDGutierrez/issues/5#issue-977765791)
+![desarrollo](https://user-images.githubusercontent.com/83549945/130574357-f7a348b8-56c9-420d-9e90-6f6dcdafb90c.png)
 
 ### Hola, soy Jorge 👋
 
