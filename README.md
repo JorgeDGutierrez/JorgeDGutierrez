@@ -5,7 +5,8 @@
 
 - 🔭 Actualmente estoy estudiando en Soy Henry
 - 🌱 Actualmente estoy aprendiendo Javascript, React, Redux, NodeJs, Postgresql, Sequelize, Firebase.                  
-- 📫 Cómo contactarme: https://www.linkedin.com/in/jorge-david-gutierrez-lopez/
+- 📫 Cómo contactarme: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- https://www.linkedin.com/in/jorge-david-gutierrez-lopez/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDGutierrez&layout=compact&theme=dark)](https://github.com/JorgeDGutierrez/github-readme-stats)
@@ -22,6 +23,6 @@
 
 
 
-https://user-images.githubusercontent.com/83549945/130580416-cabfe3d5-87e5-4937-9db3-858fa7cbe8d4.mp4
+
 
 
