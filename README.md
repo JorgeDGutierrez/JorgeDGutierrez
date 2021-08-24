@@ -15,5 +15,11 @@
 
 ![JorgeDGutierrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeDGutierrez&theme=dark&show_icons=true)
 
+<a href="https://github.com/JorgeDGutierrez/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDGutierrez&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/JorgeDGutierrez/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDGutierrez&repo=convoychat" />
+</a>
 
 
