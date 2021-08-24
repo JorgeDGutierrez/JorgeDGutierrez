@@ -11,5 +11,6 @@
 ![react-redux](https://user-images.githubusercontent.com/83549945/128263708-8a2faa4e-9f2a-4e0a-b7a8-d4151a93339f.jpg)
 
 [![JorgeDGutierrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeDGutierrez)](https://github.com/JorgeDGutierrez/github-readme-stats)
-![JorgeDGutierrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeDGutierrez&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDGutierrez)](https://github.com/JorgeDGutierrez/github-readme-stats)
+
 
