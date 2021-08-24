@@ -3,7 +3,7 @@
     
 
 - 🔭 Actualmente estoy estudiando en Soy Henry
-- 🌱 Actualmente estoy aprendiendo Javascript, React, Redux, NodeJs, Postgresql, sequelize                    
+- 🌱 Actualmente estoy aprendiendo Javascript, React, Redux, NodeJs, Postgresql, Sequelize, Firebase.                  
 - 📫 Cómo contactarme: https://www.linkedin.com/in/jorge-david-gutierrez-lopez/
 
 
