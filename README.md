@@ -18,7 +18,7 @@
 <a href="https://github.com/JorgeDGutierrez/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDGutierrez&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/JorgeDGutierrez/convoychat">
+<a href="https://github.com/JorgeDGutierrez/PI-Videogames-FT14b">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDGutierrez&repo=PI-Videogames-FT14b" />
 </a>
 
