@@ -1,3 +1,5 @@
+![react-redux](https://github.com/JorgeDGutierrez/JorgeDGutierrez/issues/5)
+
 ### Hola, soy Jorge 👋
 
     
@@ -9,6 +11,7 @@
 
 
 ![react-redux](https://user-images.githubusercontent.com/83549945/128263708-8a2faa4e-9f2a-4e0a-b7a8-d4151a93339f.jpg)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDGutierrez&layout=compact&theme=dark)](https://github.com/JorgeDGutierrez/github-readme-stats)
 
