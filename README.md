@@ -1,6 +1,6 @@
 
 ### Hola, soy Jorge 👋
-![me](https://user-images.githubusercontent.com/83549945/130577293-bf1e2f3e-435f-4aa9-a4ed-e960a373877b.JPG)
+![me](https://user-images.githubusercontent.com/83549945/130706599-719ee218-ae4c-4176-9c1b-6e932e1d1ff8.JPG)
     
 
 - 🔭 Actualmente estoy estudiando en Soy Henry
