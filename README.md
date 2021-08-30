@@ -7,7 +7,8 @@
 - 🌱 Actualmente estoy aprendiendo Javascript, React, Redux, NodeJs, Postgresql, Sequelize, Firebase.                  
 - 📫 Puedes contactarme: <a href="https://www.linkedin.com/in/jorge-david-gutierrez-lopez/">
     <p>
-    <a src="mailto:jorge.gutierrezl@outlook.com">jorge.gutierrezl@outlook.com</a>
+        Correo
+    <a src="mailto:jorge.gutierrezl@outlook.com">correo</a>
     </p>
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   
