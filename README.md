@@ -6,7 +6,7 @@
 - 🔭 Actualmente estoy estudiando en Soy Henry
 - 🌱 Actualmente estoy aprendiendo Javascript, React, Redux, NodeJs, Postgresql, Sequelize, Firebase.                  
 - 📫 Puedes contactarme: <a href="https://www.linkedin.com/in/jorge-david-gutierrez-lopez/">
-    <a href="jorge.gutierrezl@outlook.com">
+    <a href="mailto:jorge.gutierrezl@outlook.com">correo</a>
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   
 </a>
