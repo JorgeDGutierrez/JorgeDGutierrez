@@ -20,12 +20,15 @@
 
 ![JorgeDGutierrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeDGutierrez&theme=dark&show_icons=true)
 
+
+```
 <a href="https://github.com/JorgeDGutierrez/PI-Videogames-FT14b">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDGutierrez&theme=dark&repo=PI-Videogames-FT14b" />
 </a>
 <a href="https://github.com/JorgeDGutierrez/firebase-login">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDGutierrez&theme=dark&repo=firebase-login" />
 </a>
+```
 
 
 
