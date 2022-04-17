@@ -10,7 +10,7 @@
       ``` jorge.gutierrezl@outlook.com ```
     <a src="mailto:jorge.gutierrezl@outlook.com"></a>
     </p>
-  <img align="center" src="https://www.linkedin.com/in/jorge-david-gutierrez-lopez/" />
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"(https://https://www.linkedin.com/in/jorge-david-gutierrez-lopez/) />
   
 </a>
 
