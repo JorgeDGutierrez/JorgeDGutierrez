@@ -15,7 +15,7 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDGutierrez&layout=compact&theme=dark)](https://github.com/JorgeDGutierrez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDGutierrez&layout=compact&theme=dark)]
 
 
 ![JorgeDGutierrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeDGutierrez&theme=dark&show_icons=true)
